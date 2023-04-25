@@ -1,0 +1,52 @@
+body {
+  font-size: 16px;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.btn {
+  line-height: 1.5;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  transition: all 0.2s;
+  background-color: #007bff;
+  color: #fff;
+  
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0px 5px 5px 0px #373c3c;
+}
+
+.hola {
+  text-decoration: underline blue;
+}
+
+
+@media (max-width: 991.98px) {
+  .row > div {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+  }
+  .btn {
+    max-width: none;
+  }
+
+}
+
+@media (min-width: 992px) {
+  .row > div {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+
+  
+ 
+  
