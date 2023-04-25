@@ -3,17 +3,16 @@ body {
 }
 
 .container {
-  max-width: 100%;
+  max-width: 150%;
   margin: 0 auto;
 }
 
 .btn {
-  line-height: 1.5;
-  font-size: 1.5rem;
+  line-height: 2rem;
+  font-size: 1.2rem;
   border-radius: 1rem;
   transition: all 0.2s;
-  background-color: #007bff;
-  color: #fff;
+
   
 }
 
@@ -24,6 +23,12 @@ body {
 
 .hola {
   text-decoration: underline blue;
+}
+
+@media (max-width: 768px) {
+  .btn {
+    font-size: 1rem;
+  }
 }
 
 
