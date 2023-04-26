@@ -26,6 +26,23 @@ body {
   text-decoration: underline blue;
 }
 
+.separador{
+  background-color: transparent;
+  color: transparent;
+}
+
+.btn-primary:hover{
+  background-color: #E1306C;
+  border-color: #E1306C;
+  color: #FFFFFF;
+}
+
+.btn-primary{
+  background-color: #E4405F;
+  border-color: #E1306C;
+  color: #FFFFFF;
+}
+
 @media (max-width: 873px) {
   .btn {
     font-size: 1rem;
