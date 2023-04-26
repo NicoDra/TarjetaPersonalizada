@@ -32,12 +32,12 @@ body {
 }
 
 h4{
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Ink Free', sans-serif;
   font-size: 2.3rem;
 }
 
 .descripcion{
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ink Free', sans-serif;
   font-size: 1.5rem;
 }
 .btn-primary:hover{
@@ -103,7 +103,8 @@ h4{
 }
 
 .rounded-circle {
-  border: 3px solid #7f8c8d;
+  border: 3px solid #252850;
   overflow: hidden;
   margin-top: 1px;
+  background-color:#252850 ;
 }
