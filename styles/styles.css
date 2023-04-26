@@ -70,7 +70,23 @@ h4{
   }
   .descripcion{
     font-family: 'Indie Flower', cursive;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
+  }
+  h4{
+    font-family: 'Amatic SC', cursive;
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 350px) {
+  .row > div {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+  }
+  .descripcion{
+    font-family: 'Indie Flower', cursive;
+    font-size: 0.6rem;
   }
   h4{
     font-family: 'Amatic SC', cursive;
