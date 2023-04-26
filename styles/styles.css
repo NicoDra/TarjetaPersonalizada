@@ -1,3 +1,4 @@
+
 body {
   font-size: 16px;
 }
@@ -69,11 +70,11 @@ h4{
     margin-bottom: 1rem;
   }
   .descripcion{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Ink Free', sans-serif;
     font-size: 1.3rem;
   }
   h4{
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Ink Free', sans-serif;
     font-size: 2rem;
   }
 }
@@ -85,11 +86,11 @@ h4{
     margin-bottom: 1rem;
   }
   .descripcion{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Ink Free', sans-serif;
     font-size: 0.9rem;
   }
   h4{
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Ink Free', sans-serif;
     font-size: 2rem;
   }
   
