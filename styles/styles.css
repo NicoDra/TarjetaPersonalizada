@@ -31,6 +31,15 @@ body {
   color: transparent;
 }
 
+h4{
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.3rem;
+}
+
+p{
+  font-family: 'Indie Flower', cursive;
+  font-size: 1rem;
+}
 .btn-primary:hover{
   background-color: #E1306C;
   border-color: #E1306C;
@@ -72,5 +81,5 @@ body {
 .rounded-circle {
   border: 3px solid #7f8c8d;
   overflow: hidden;
-  margin-top: 3px;
+  margin-top: 2px;
 }
